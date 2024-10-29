@@ -593,6 +593,16 @@
   #es-rc #es-rc-content .es-formula__text--title {
     margin-block: 10px;
   }
+
+  #es-rc #es-rc-content .es-cross__product {
+    width: 242px;
+  }
+}
+
+@media (min-width: 980px) {
+  #es-rc #es-rc-content .es-cross__product {
+    width: 162px;
+  }
 }
 
 @media (min-width: 992px) {
